@@ -1,5 +1,5 @@
 * [Home](/)
-* [About](/#/about)
+* [About](about.md)
 * [LinkedIn](https://www.linkedin.com/in/rudimk)
 * [Twitter](https://twitter.com/rudrakshmk)
 * [GitHub](https://github.com/rudimk)
